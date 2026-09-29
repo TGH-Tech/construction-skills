@@ -20,6 +20,22 @@ your own projects, checklists and team, **[request a pilot at bleno.io](https://
 
 ## Install
 
+### Quickest: paste a link into any Claude or ChatGPT chat
+
+No install needed. Start a chat, attach your agreement or scope of work, and
+paste one of these:
+
+> Follow the instructions at
+> https://raw.githubusercontent.com/TGH-Tech/construction-skills/main/dist/construction-critical-path.md
+> and build the critical path schedule for the attached agreement.
+
+> Follow the instructions at
+> https://raw.githubusercontent.com/TGH-Tech/construction-skills/main/dist/construction-qa-checklists.md
+> and make the QA checklist workbook for the attached scope of work.
+
+Each file is the whole skill in one page — instructions, reference library
+and scripts. Web access must be on in the chat so it can read the link.
+
 ### Claude Code, Codex, Cursor and other coding agents
 
 ```bash
@@ -38,9 +54,10 @@ npx skills add TGH-Tech/construction-skills --list                  # see what's
 
 ### claude.ai (web and desktop)
 
-1. Download the skill's zip from the
-   [latest release](https://github.com/TGH-Tech/construction-skills/releases/latest):
-   `construction-critical-path.zip` or `construction-qa-checklists.zip`.
+1. Download the skill's zip:
+   [construction-critical-path.zip](https://github.com/TGH-Tech/construction-skills/raw/main/dist/construction-critical-path.zip)
+   or [construction-qa-checklists.zip](https://github.com/TGH-Tech/construction-skills/raw/main/dist/construction-qa-checklists.zip)
+   (also on the [latest release](https://github.com/TGH-Tech/construction-skills/releases/latest)).
 2. In Claude, open **Customize → Skills** (Settings → Capabilities on some
    plans), choose **Upload skill**, and select the zip.
 3. Code execution must be on (Settings → Capabilities) so the calculator and
@@ -48,8 +65,7 @@ npx skills add TGH-Tech/construction-skills --list                  # see what's
 
 ### ChatGPT
 
-1. Download the zip from the
-   [latest release](https://github.com/TGH-Tech/construction-skills/releases/latest).
+1. Download the same zip (links above).
 2. In ChatGPT, open **Skills → Create → Upload from your computer** and select
    the zip. ChatGPT scans a skill before it becomes available.
 
@@ -83,7 +99,8 @@ skills/
     scripts/      build_workbook.py — controlled-form QA workbook
     assets/       checklist data, example selection
     agents/       openai.yaml
-scripts/package.sh   builds the per-skill zips for claude.ai and ChatGPT
+dist/                upload zips and single-file editions (built by scripts/package.sh)
+scripts/package.sh   rebuilds dist/
 ```
 
 ## License
