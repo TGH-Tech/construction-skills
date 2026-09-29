@@ -1,0 +1,173 @@
+{
+  "project": "Example — setup and substructure (sample library)",
+  "activities": [
+    {
+      "id": "A010",
+      "name": "Mobilization",
+      "duration": 5,
+      "predecessors": [],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "A020",
+      "name": "Site establishment",
+      "duration": 7,
+      "predecessors": [
+        {
+          "id": "A010",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "A030",
+      "name": "Survey and setting out",
+      "duration": 2,
+      "predecessors": [
+        {
+          "id": "A020",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "B010",
+      "name": "Excavation",
+      "duration": 7,
+      "predecessors": [
+        {
+          "id": "A030",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "B020",
+      "name": "Foundation-base preparation",
+      "duration": 2,
+      "predecessors": [
+        {
+          "id": "B010",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "B030",
+      "name": "PCC / blinding concrete",
+      "duration": 2,
+      "predecessors": [
+        {
+          "id": "B020",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "B040",
+      "name": "Footing reinforcement",
+      "duration": 5,
+      "predecessors": [
+        {
+          "id": "B030",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "B050",
+      "name": "Footing formwork",
+      "duration": 4,
+      "predecessors": [
+        {
+          "id": "B040",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "B060",
+      "name": "Foundation inspection",
+      "duration": 1,
+      "predecessors": [
+        {
+          "id": "B040",
+          "type": "FS",
+          "lag": 0
+        },
+        {
+          "id": "B050",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "B070",
+      "name": "Footing concrete",
+      "duration": 1,
+      "predecessors": [
+        {
+          "id": "B060",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "B080",
+      "name": "Foundation curing / strength period",
+      "duration": 7,
+      "predecessors": [
+        {
+          "id": "B070",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "B090",
+      "name": "Columns / pedestals to plinth",
+      "duration": 5,
+      "predecessors": [
+        {
+          "id": "B080",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    },
+    {
+      "id": "B100",
+      "name": "Backfilling and compaction",
+      "duration": 4,
+      "predecessors": [
+        {
+          "id": "B090",
+          "type": "FS",
+          "lag": 0
+        }
+      ],
+      "source": "library (provisional)"
+    }
+  ]
+}

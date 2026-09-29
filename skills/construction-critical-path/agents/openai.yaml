@@ -1,0 +1,4 @@
+interface:
+  display_name: "Construction critical path"
+  short_description: "CPM schedule from a construction agreement"
+  brand_color: "#161615"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Construction QA checklists"
+  short_description: "QA checklist workbook from a scope of work"
+  brand_color: "#161615"

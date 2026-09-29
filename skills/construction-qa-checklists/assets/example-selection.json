@@ -1,0 +1,25 @@
+{
+  "project": {
+    "name": "Two-storey residence (example)",
+    "client": "Example Client",
+    "location": "Example site",
+    "date": "2026-10-05"
+  },
+  "checklists": [
+    {"id": "QA-7", "include": true, "reason": "Selected by scope: \"PCC below column footing, 1:4:8\"."},
+    {"id": "QA-14", "include": true, "reason": "Selected by scope: \"Block work – cement solid block walls in CM 1:6, parapet wall\"."},
+    {"id": "QA-18", "include": true, "reason": "Selected by scope: \"Plastering – Inside plastering, 1:5, 12 mm\"."},
+    {"id": "QA-22", "include": true, "reason": "Selected by scope: \"Vitrified tiles 2x2 for all rooms\"."},
+    {"id": "QA-27", "include": false, "reason": "Excluded by scope: \"Internal painting by owner\"."}
+  ],
+  "no_checklist": [
+    "Electrical – concealed conduits, wiring, DB fixing",
+    "Plumbing – concealed pipe works, sanitary fittings",
+    "Carpentry – doors and windows"
+  ],
+  "not_in_sample": [
+    "RCC work – columns, beams, roof slab (RCC for superstructure)",
+    "Plastering – ceiling (Plastering for ceiling)",
+    "Plastering – external (Plastering for external walls)"
+  ]
+}

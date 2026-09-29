@@ -1,0 +1,29 @@
+Bleno Construction Skills License
+
+Copyright (c) 2026 Bleno (TGH-Tech). All rights reserved except as granted below.
+
+The "Materials" are the contents of this repository, including the skill
+instructions, reference libraries, checklists, scripts and example files.
+
+1. Use. You may install, run and use the Materials, free of charge, for any
+   purpose, including commercial work on your own projects and your clients'
+   projects. You may modify the Materials for your own internal use.
+
+2. Output. Schedules, workbooks and other documents you produce with the
+   Materials belong to you.
+
+3. No redistribution. You may not publish, redistribute, sublicense, sell or
+   otherwise make the Materials, or modified versions of them, available to
+   others — including by listing them in a skill marketplace or bundling them
+   into another product — without written permission from Bleno. Sharing a
+   link to this repository is permitted.
+
+4. Notices. Keep this license and the copyright notice with any copy of the
+   Materials you keep.
+
+5. No warranty. The Materials are provided "as is", without warranty of any
+   kind. Durations, logic and checklists are provisional references that must
+   be reviewed by a competent person for each project. Bleno is not liable for
+   any claim, damage or loss arising from their use.
+
+For permissions, pilots and the full workflows: https://bleno.io

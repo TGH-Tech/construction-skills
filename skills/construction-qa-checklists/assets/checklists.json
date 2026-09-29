@@ -1,0 +1,248 @@
+{
+  "library": "Standard Construction QA Checklists (Ver 1.0) — sample",
+  "checklists": [
+    {
+      "id": "QA-7",
+      "code": "7",
+      "activity": "PCC BELOW FOUNDATION",
+      "sections": [
+        {
+          "heading": "PRE-EXECUTION CHECKS",
+          "phase": "pre",
+          "items": [
+            "Are the latest \"Good for Construction\" drawings available?",
+            "Have the required barricading and safety measures been taken?",
+            "Are the required number of cement bags, Sand, stone agregates and provision for water available on site? (or adequate quantity of RMC been ordered )",
+            "Are the required tools, mixing and ramming equipments, scafoldiings for movement of labour and transporting of materials available at site to ensure correct work?",
+            "Are calibrated measuring containers available for measurement (weigh batcher in case of weigh batching).",
+            "Is the platform and scaffolding material secure?",
+            "Is the necessary shuttering completed and in place?",
+            "Has the shuttering material been properly aligned using appropriate equipment?",
+            "Are spare hessain cloth or tarpaulin sheet available as protection from the elements?",
+            "Have the dimensions and orientation of the excavated pit and scafolding for holding the concrete been checked?",
+            "Has the pit been cleaned by removing all the loose materials?",
+            "Has the excavated pit watered and rammed for better compacted strata?",
+            "Is the surface level of the pit even?",
+            "Does the shuttering box fit in position?",
+            "Has the strata been checked and approved by the concerned authority?",
+            "Have markings been made on the supporting reference points for the concrete level at each postion?",
+            "Is the Concrete Mixing area identified and pathways for transportation of concerete to position defined and made hazzle free",
+            "Is the allowance in height for Flooring, Joinary Screed considered",
+            "Is required Water proofing done in between RCC and PCC layer to avoid capilary rise of water from below the flooring",
+            "For slab and beam concreteing is the form work for movement of concrete in postion without disturbing the reinfocement",
+            "Are spare hessain cloth or tarpaulin sheet available as protection from the elements?"
+          ]
+        },
+        {
+          "heading": "CHECKS DURING EXECUTION",
+          "phase": "during",
+          "items": [
+            "Is the right grade of concrete being used?",
+            "Has the level of P.C.C maintained?",
+            "Has the leveling, ramming and finishing of P.C.C done?"
+          ]
+        },
+        {
+          "heading": "POST-POUR CHECKS",
+          "phase": "post",
+          "items": [
+            "Has it been ensured that hessain cloth is provided and curing done?",
+            "Has it been ensured that no loose earth has fallen on the P.C.C bed?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "QA-14",
+      "code": "14",
+      "activity": "BLOCK WORK FOR SUPERSTRUCTURE",
+      "sections": [
+        {
+          "heading": "PRE-EXECUTION CHECKS",
+          "phase": "pre",
+          "items": [
+            "Are the latest \"Good for Construction\" drawings available?",
+            "Are the required number of blocks available? (both load bearing and non-load bearing)",
+            "Are the required number of cement bags, Sand and provision for water available on site? (or adequate quantity of RMC been ordered )",
+            "Is the Block arrived at site having equal shape, monotone surface, uniform curing and is without breakage",
+            "Is the Block or brick as per the standard specification issued by the consultant",
+            "Are the required containers, tools, postion for mixing cement mortar, scafoldiings for work at higher levels available at site to ensure correct work?",
+            "Have the Wall lines marked at site on hard surface for reference and checking",
+            "Whether height of walls required is marked on a solid surface considering allowance of flooring, plastering, and any other treatment which will be part of the finished surface",
+            "Whether the details of the door openings, windows, ventilators fixed with sizes and height of sill level fixed as per the drawings",
+            "Whether any additional elements in between the block work like full height and mid level pillars, mid beams, bay windows, cantilever structure, finwalls, sunken slab, bed blocks, berth slab etc. fixed and marked for action. Separate action plan and specific opening sizes should be provided for this as per drawings from the Consultant",
+            "Whether positions of General essential elements like airholes, exhaust openings etc. fixed as per the drawings or advice from the consultant.",
+            "Are there any specific requirement in the design like niches, openings, cupboard openings, openings with thin concrete or ferrocement back wall. Whether action plan to implement the same is taken",
+            "Whether action plan of fixing of doors, windows and ventilators with clamps and fasteners fixed and necessary steps for the provisions for the same in place.",
+            "Whether Surface prepared for starting block work over RCC surface by scrubing of dirt and upper layer using wire mesh and applying cement slurry for better bonding ( or bonding chemical as specified in case of old structure)"
+          ]
+        },
+        {
+          "heading": "CHECKS DURING EXECUTION",
+          "phase": "during",
+          "items": [
+            "Is the blockwork checked in vertical and horizontal directions using fixed strings and plumb levels",
+            "Is the Cement Mortar ratio fixed by the consultant and it is measured and mixed for each mix of mortar",
+            "Has the check for dimensions sizes of different walls, opening sizes etc done frequently in between the work?",
+            "Has the thickness for joints been checked?",
+            "Has raking and pointing of joints been done?",
+            "Has the procedure of not constructing more than 5 courses for block work and 10 courses for brick work a day been followed?",
+            "Has the top course been packed below the concrete beam?"
+          ]
+        },
+        {
+          "heading": "POST-EXECUTION CHECKS",
+          "phase": "post",
+          "items": [
+            "Has the curing of blockwork done for atleast 7 days?",
+            "Has care been taken of not entertaining excessive chasing?",
+            "Has a nail been driven to test the strength of joint after 7 days of curing?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "QA-18",
+      "code": "18",
+      "activity": "PLASTERING FOR INTERNAL WALLS",
+      "sections": [
+        {
+          "heading": "PRE-PLASTERING CHECKS",
+          "phase": "pre",
+          "items": [
+            "Is the latest \"Good for Construction\" drawings available?",
+            "Is sufficient place available for starting plastering?",
+            "Has the required barricading and safety measures been taken?",
+            "Is the electrical conduiting works completed?",
+            "Has the PVC Plastering mesh been nailed between all RCC & masonry members and over the large openings of conduits for electrical wiring",
+            "Are the wooden doors & window frames been fixed",
+            "If the doors and windows are not of wooden frames whether Aluminium templates used for fixing sizes and corners of the openings",
+            "Is the hotwater piping and internal piping works in toilets & kitchen completed?",
+            "Has proper scaffolding arrangement been made?",
+            "Is the height of switch boxes fixed correctly?",
+            "Are all boxes covered by dummy plates?",
+            "Are the A/c works, access control and fire alarms systems in place?",
+            "Is the blockwork cured for atleast 7 days?",
+            "Is the surface wet & free from dust, oil & all forms of contaminations?",
+            "Has the dried mortar been cleaned off the surface?",
+            "Are there any specific requirement in the design like niches, openings, cupboard openings, openings with thin concrete or ferrocement back wall. Whether action plan to implement the same is taken",
+            "Are the required tools available?",
+            "Are the required materials available?"
+          ]
+        },
+        {
+          "heading": "CHECKS DURING PLASTERING",
+          "phase": "during",
+          "items": [
+            "Is the mixing of cement mortar being done correctly, on MS sheet? as per the ratio specified by consultant",
+            "Is the plaster in proper line & verticality?",
+            "Is the wall being plastered to given specifications, to plumb and even? Whether it is checked with side light to ascertain the perfection of work",
+            "Is plastering done above & below all platforms and lofts?",
+            "Are the edges of window frames & door frames perfectly vertical?",
+            "Are all corners in line and finished properly?",
+            "Are switch boxes in position and properly finished?",
+            "Is the plaster surface cut properly for skirting?",
+            "Has the kind of finishing required been achieved?",
+            ">Normal sponge finish (for Putty application) ?",
+            ">Rough finish (tile application/first coat)?",
+            ">Smooth,even finish (textured coatings)?"
+          ]
+        },
+        {
+          "heading": "POST-PLASTERING CHECKS",
+          "phase": "post",
+          "items": [
+            "Is curing carreid out for a minimum of 10 days,with the date of plastering on wall with permanent marker?",
+            "Are grooves,drip mould and mortar bands given as per design?",
+            "Has all the mortar spillage been cleaned?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "QA-22",
+      "code": "22",
+      "activity": "FLOORING USING VITRIFIED TILES",
+      "sections": [
+        {
+          "heading": "PRE-TILING CHECKS",
+          "phase": "pre",
+          "items": [
+            "Has the surface been prepared for tiling ?",
+            "Is the surface smooth, free from dust and other contaminations?",
+            "Are any necessary works pending?",
+            "Are the required tools available?",
+            "Are there any specific requirements of the client?",
+            "Has the tile code number and tile name ensured?",
+            "Is the cement less than 3 months old?"
+          ]
+        },
+        {
+          "heading": "CHECKS DURING TILING",
+          "phase": "during",
+          "items": [
+            "Are the tiles moist before placing in mortar?",
+            "Have the edges checked for straightness?",
+            "Is the tile surface even and in one level?",
+            "Have the tiles been coated with a layer of cement slurry?",
+            "Have the tiles been gently tapped after laying on the motar bed?",
+            "Have the tiles been mixed from different boxes?"
+          ]
+        },
+        {
+          "heading": "POST-TILING CHECKS",
+          "phase": "post",
+          "items": [
+            "Are the joints less than 3mm in width?",
+            "Are the joints properly aligned?",
+            "Is there any hollow sound on the tile when tapped?",
+            "Have the edges been checked for straightness?",
+            "Are all the layed floor tiles properly covered?",
+            "Has the grouting been done?",
+            "Is the tile surface plumb?",
+            "Have the setting of joints done only after a minimum of 24 hours?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "QA-27",
+      "code": "27",
+      "activity": "PAINTING INTERNAL WALLS",
+      "sections": [
+        {
+          "heading": "PRE-PAINTING CHECKS",
+          "phase": "pre",
+          "items": [
+            "Has the shade, type of paint been approved by the architect and duly certified?",
+            "Has it been ensured that wall and ceiling surfaces are completely dry?",
+            "Have all the loose particles,dirt and dust scrubbed off from the surface?",
+            "Has proper scaffolding arrangement done with safety measures ?",
+            "Are the required tools available?",
+            "Are there any specific requirements of the client?"
+          ]
+        },
+        {
+          "heading": "CHECKS DURING PAINTING",
+          "phase": "during",
+          "items": [
+            "Is the primer application done?",
+            "Have all the undulations covered using putty?",
+            "Has sanding of the surfaces done properly to render a smooth surface?",
+            "Has the dust from the surface thoroughly wiped off after sanding the puttied surface?",
+            "Has it been ensured that the first coat of paint is applied and finished with roller?",
+            "Has it been ensured that the final coat is applied after 4 to 6 hours of first coat?"
+          ]
+        },
+        {
+          "heading": "POST-EXECUTION CHECKS",
+          "phase": "post",
+          "items": [
+            "Has it been ensured that the area which is painted is protected?",
+            "Has the quality of the work certified by concerned authority?"
+          ]
+        }
+      ]
+    }
+  ]
+}
